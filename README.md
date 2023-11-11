@@ -1,5 +1,5 @@
 # Enhanced Deepfake Detection In Social Media
-COntributors:
+Contributors:
 Atharv Kurlapkar
 Akhand Verma
 Aditya Nagulpelli
