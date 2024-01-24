@@ -26,6 +26,9 @@ The real images are sourced from CelebA image dataset. Each of these datasets co
 
 ## Literature Review
 
+![Screenshot 2024-01-24 211410](https://github.com/atharvk47/Enhanced-Deepfake-Detection-In-Social-Media/assets/96378794/cb7404e9-9df4-4779-b161-f953c3dd3085)
+
+
 ## Snapshots:
 
 1. Login Page
