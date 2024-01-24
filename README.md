@@ -16,8 +16,15 @@ Detecting deepfakes in social media is crucial for safeguarding trust and integr
 2. Express and Node for backend server
 3. React for the frontend
 4. MUI for enhancing the frontend
-5. Flask for integrating ML model
-6. Kaggle and Python Notebook for creating API using our proposed ML model
+5. Flask(ngrok) for public API endpoint for ML model on Colab 
+6. Kaggle and Python Notebook for implementing existing research paper, training etc
+
+## Dataset
+
+The DFDC dataset encompasses a combination of real and deepfake video content, from which we extract individual frames to be utilized as still images.
+The real images are sourced from CelebA image dataset. Each of these datasets comprises a collection of 5000 images. For this experiment, we consider 1000 randomly picked images from this dataset. The deepfake images, on the other hand, are gleaned from StyleGAN, encompassing a curated selection of 1000 images from each dataset. 
+
+## Literature Review
 
 ## Snapshots:
 
