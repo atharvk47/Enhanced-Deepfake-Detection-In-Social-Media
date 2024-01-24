@@ -53,9 +53,9 @@ The real images are sourced from CelebA image dataset. Each of these datasets co
 
 6. Displaying deepfake in backend
 
-   ![WhatsApp Image 2023-11-05 at 4 15 13 PM](https://github.com/atharvk47/Enhanced-Deepfake-Detection-In-Social-Media/assets/122916032/11912ab4-1cd8-4d80-819c-83728487b5ae)
+![Screenshot 2024-01-24 211801](https://github.com/atharvk47/Enhanced-Deepfake-Detection-In-Social-Media/assets/96378794/d0e90f05-6450-49e5-9307-9de75df5e0de)
 
-   A number 0 indicates that it is a real while any other number is a deepfake.
+
 
 ## Future Scope:
 
