@@ -21,8 +21,13 @@ Detecting deepfakes in social media is crucial for safeguarding trust and integr
 
 ## Dataset
 
-The DFDC dataset encompasses a combination of real and deepfake video content, from which we extract individual frames to be utilized as still images.
-The real images are sourced from CelebA image dataset. Each of these datasets comprises a collection of 5000 images. For this experiment, we consider 1000 randomly picked images from this dataset. The deepfake images, on the other hand, are gleaned from StyleGAN, encompassing a curated selection of 1000 images from each dataset. 
+DFDC Dataset: A blend of real and deepfake video content, providing frames for still image analysis in deepfake detection experiments.
+
+CelebA Image Dataset: A subset of 1000 random images from CelebA, a benchmark dataset for facial analysis tasks, serving as genuine reference images.
+
+StyleGAN: 1000 deepfake images created using StyleGAN, showcasing the synthetic nature of manipulated content for detection algorithm evaluation.
+
+FFHQ Dataset: A collection of high-quality human faces from Flickr, potentially used to augment diversity in facial samples for enhanced deepfake detection model training.
 
 ## Literature Review
 
