@@ -29,6 +29,8 @@ StyleGAN: 1000 deepfake images created using StyleGAN, showcasing the synthetic 
 
 FFHQ Dataset: A collection of high-quality human faces from Flickr, potentially used to augment diversity in facial samples for enhanced deepfake detection model training.
 
+You can find the datasets used [here](https://drive.google.com/drive/folders/1uZKk98s-GIcPWT9D0Eh5ZVBAmgBq2DCC?usp=sharing).
+
 ## Literature Review
 
 ![Screenshot 2024-01-24 211410](https://github.com/atharvk47/Enhanced-Deepfake-Detection-In-Social-Media/assets/96378794/cb7404e9-9df4-4779-b161-f953c3dd3085)
